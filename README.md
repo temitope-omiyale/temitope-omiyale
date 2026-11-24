@@ -1,6 +1,6 @@
 ### Hi, I'm Temitopeoluwa Omiyale — Data Analyst & Statistician
 
-Data Analyst with **8+ years of experience** across **Data Analytics, Data Compliance & Governance, Process Optimization, and Quantitative Research**, backed by formal training in **Statistics (BSc in view, HND, OND)** and **Data Privacy & Protection**. I build automated reporting systems, data quality controls, and statistical models that reduce turnaround time and mitigate operational risk.
+Data Analyst with **8+ years of experience** across **Data Analytics, Data Compliance & Governance, Process Optimization, and Quantitative Research**, backed by formal training in **Statistics (BSc, HND, OND)** and **Data Privacy & Protection**. I build automated reporting systems, data quality controls, and statistical models that reduce turnaround time and mitigate operational risk.
 
 - **Key Impact:** Automated KPI reporting workflows to cut reporting turnaround time by **60%**, led subsidiary-wide SOP and Data Retention/DSAR governance reviews, and delivered research insights driving a **25% increase in client ROI**.
 - **Core Expertise:** Data Compliance & Governance (DSAR, Retention, Policy/SOP Controls) • Process Optimization • KPI Automation • Statistical Inference & Predictive Modeling
